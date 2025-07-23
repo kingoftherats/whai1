@@ -1,2 +1,2 @@
-# whai-1
+# whai1
 Why Would You Use AI For This 1? - Conspiracy and Cult Generator
