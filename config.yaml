@@ -1,0 +1,5 @@
+#possible names: gemini ONLY -- maybe claude, deepseek, meta, chatgpt LATER
+name: gemini2
+#model names are specific to the provider
+model: gemini-2.5-flash
+api_key: abc123
