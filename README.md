@@ -1,5 +1,5 @@
 # whai1
-Why Would You Use AI For This 1? - Conspiracy Theory Generator
+Why Would You Use AI For This? - Conspiracy Theory Generator
 
 ## Prep
 Install the dependencies (in a virtual env or not)
