@@ -2,7 +2,7 @@
 Why Would You Use AI For This? - Conspiracy Theory Generator
 
 ## Prep
-I developed and testing on Python 3.13.5. I didn't test with other versions so try to aim for something close to that to avoid surprises.
+I developed and tested on Python 3.13.5. I didn't test with other versions so try to aim for something close to avoid surprises.
 
 Install the dependencies (in a virtual env or not)
 
