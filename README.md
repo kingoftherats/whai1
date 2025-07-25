@@ -2,6 +2,8 @@
 Why Would You Use AI For This? - Conspiracy Theory Generator
 
 ## Prep
+I developed and testing on Python 3.13.5. I didn't test with other versions so try to aim for something close to that to avoid surprises.
+
 Install the dependencies (in a virtual env or not)
 
 ```sh
@@ -18,7 +20,7 @@ At a command line within the source directory:
 python main.py
 ```
 
-alternatively if your shell supports shebang scripts:
+Alternatively if your shell supports shebang scripts:
 
 ```sh
 chmod +x main.py
